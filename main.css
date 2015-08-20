@@ -1,0 +1,27 @@
+.header h1{
+	font-size: 100px; 
+	font-family: 'Roboto', sans-serif; 
+	font-weight: bold; 
+	text-transform: uppercase;
+	text-align: center;
+	padding-right: 70px;
+	
+	
+}
+
+.header p{
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: lighter; 
+	text-align: center;
+	padding-right: 70px;
+	color: #04c7d5
+	
+	
+	
+}
+
+.header a{
+	color: #04c7d5
+}
+
