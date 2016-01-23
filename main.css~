@@ -34,7 +34,7 @@
 
 
 .circular {
-	width: 300px;
+	width: 1000px;
 	height: 300px;
 	border-radius: 150px; 
 	-webkit-border-radius: 150px;
