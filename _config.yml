@@ -7,7 +7,7 @@
 
 # Site settings
 title: joelmacias.com
-email: your-email@domain.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   Site under constructions. Testing out Jekyll with github pages
 baseurl: "" # the subpath of your site, e.g. /blog
